@@ -1,4 +1,4 @@
-# Shpping App (iOS & Android)
+# Shopping App (iOS & Android)
 
 ## Setup
 To run this project, install it locally using npm:
