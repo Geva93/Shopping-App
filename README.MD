@@ -4,7 +4,7 @@
 To run this project, install it locally using npm:
 
 ```
-$ cd ../lorem
+$ cd {project-folder}
 $ npm install
 $ npm start
 ```
@@ -18,8 +18,6 @@ Multiple Screens
 and More...
 
 *Before using, connect fetch functions to a working API
-
-Main Screen:
 
 <img src="/docs/images/allProducts.png" height="400" width="250">
 <img src="/docs/images/yourCart.png" height="400" width="250">
