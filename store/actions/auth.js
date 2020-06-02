@@ -61,7 +61,7 @@ export const signup = (email, password) => {
 export const login = (email, password) => {
   return async dispatch => {
     const response = await fetch(
-      `${URLS.gLIURL}`,
+      `${URLS.gURL}`,
       {
         method: 'POST',
         headers: {
